@@ -1,6 +1,6 @@
 # Hi! I’m Emmanuel
 
-I'm a Software Engineer living and working in undefined.
+I'm a Software Engineer living and working in New York.
 
 * [Find out more about me](https://portfolio-yans-projects-ae27286d.vercel.app/)
 * [I tweet about web development, tech and life](https://twitter.com/hiyankey)
