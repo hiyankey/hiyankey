@@ -1,6 +1,8 @@
-# Hi! I’m Emmanuel
+Hi there 👋
 
-I'm a Software Engineer living and working in New York.
+I'm a design engineer @ soon. 
+
+Previously ??
 
 * [Find out more about me](https://portfolio-yans-projects-ae27286d.vercel.app/)
 * [I tweet about web development, tech and life](https://twitter.com/hiyankey)
