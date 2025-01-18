@@ -1,13 +1,13 @@
 Hi there 👋
 
-I'm a design engineer @ soon. 
+I'm Emmanuel, a freelance design engineer based in the UK. 
 
-Previously ??
+In recent years, I've been fully committed to perfecting my craft, driven by a firm belief that passion and perseverance lead to great things.
+
+I'm eager to collaborate with early-stage startups and founders looking to define their visual design, particularly for marketing websites or product UI. If that sounds like you, let’s connect and chat about your project! 
 
 * [Find out more about me](https://portfolio-yans-projects-ae27286d.vercel.app/)
-* [I tweet about web development, tech and life](https://twitter.com/hiyankey)
-* [I do it for the gram](https://www.instagram.com/hiyankey/)
 
-Want to chat? [Hit me up on Whatsapp](https://wa.me/+233501315738) or [shoot me an email](mailto:hiyankey@gmail.com).
+* [Send an email](mailto:hiyankey@gmail.com)
 
 ![Emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=hiyankey&count_private=true&show_icons=true)
