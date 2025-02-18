@@ -1,7 +1,6 @@
 Hi there 👋
 
-I'm Emmanuel, a freelance design engineer passionate about visual design.<br/>
-I help startups craft marketing websites and product UIs.<br/>
+I am a software engineer with a zeal for designing, building, and maintaining digital products for consumersI
 [Let’s connect!](mailto:hiyankey@gmail.com)
 
 
